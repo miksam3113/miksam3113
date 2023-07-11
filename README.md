@@ -19,12 +19,6 @@ I'm a frontend, backend and databases developer!
 | SQL, MySQL, Oracle | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)   |
 | WebPack, MomentJS, Terminal | ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  
 
-
-## Interesting of me
-
-![Windows](https://svgshare.com/i/ZhY.svg)
-![wakatime](https://wakatime.com/badge/user/7b8b02a2-3e37-42ee-a31c-8c1c1323cbd4.svg)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miksam13&layout=compact)
 
 <img src="https://wakatime.com/share/@miksam13/635ce238-94a7-4177-aefe-f96602f5954d.svg"></img>
