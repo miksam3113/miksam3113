@@ -21,10 +21,7 @@ I'm a frontend, backend and databases developer!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miksam13&layout=compact)
 
-<img src="https://wakatime.com/share/@miksam13/635ce238-94a7-4177-aefe-f96602f5954d.svg"></img>
-<img src="https://wakatime.com/share/@miksam13/1f8a7492-7b23-4255-9b60-008ed3816963.svg" ></img>
-
-
 ## Feedback
 
+My LinkedIn - https://www.linkedin.com/in/maksym-omelchenko-ba94bb237/
 If you have any feedback, please reach out to us at maks1313137022@gmail.com or in telegram [@Miksam_13](https://miksam_13.t.me/)
