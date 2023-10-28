@@ -1,5 +1,5 @@
 
-# Hi, I'm Maksim Omelchenko! 👋
+# Hi, I'm Maksym Omelchenko! 👋
 
 
 I'm a frontend, backend and databases developer!
