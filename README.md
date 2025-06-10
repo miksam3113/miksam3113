@@ -25,4 +25,4 @@ I'm a frontend, backend and databases developer!
 ## Feedback
 
 My LinkedIn - https://www.linkedin.com/in/maksym-omelchenko-ba94bb237/
-If you have any feedback, please reach out to me at miksam13@icloud.com or in telegram [@miksam3113](https://miksam_13.t.me/)
+If you have any feedback, please reach out to me at miksam13@icloud.com or in telegram [@miksam3113](https://miksam3113.t.me/)
