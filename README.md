@@ -2,7 +2,7 @@
 # Hi, I'm Maksym Omelchenko! 👋
 
 
-I'm a frontend, backend and databases developer!
+I'm a fullstack developer!
 
 ## My skills
 
@@ -21,8 +21,3 @@ I'm a frontend, backend and databases developer!
 | Netlify, Heroku, Amazon AWS, Google Cloud | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Heroku](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)) ![Amazow AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google CLoud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  |
 | WebPack, MomentJS, Terminal | ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)   |
 | | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-## Feedback
-
-My LinkedIn - https://www.linkedin.com/in/maksym-omelchenko-ba94bb237/
-If you have any feedback, please reach out to me at miksam13@icloud.com or in telegram [@miksam3113](https://miksam3113.t.me/)
